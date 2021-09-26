@@ -7,7 +7,7 @@ redirect_from:
   - /flower
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Pictures of flowers from the farm!
 

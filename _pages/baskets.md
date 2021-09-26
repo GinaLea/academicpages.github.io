@@ -7,7 +7,7 @@ redirect_from:
   - /basket
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 
 ![](basket_1.jpg)
