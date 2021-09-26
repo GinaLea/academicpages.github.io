@@ -11,7 +11,7 @@ redirect_from:
 
 Pictures of flowers from the farm!
 
-![](images/flower_1.jpg)
-![](images/flower_2.jpg)
-![](images/flower_3.jpg)
-![](images/flower_4.jpg)
+![](flower_1.jpg)
+![](flower_2.jpg)
+![](flower_3.jpg)
+![](flower_4.jpg)
