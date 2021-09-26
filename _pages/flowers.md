@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Pictures of flowers from the farm!
+
 ![](images/flower_1.jpg)
 ![](images/flower_2.jpg)
 ![](images/flower_3.jpg)
