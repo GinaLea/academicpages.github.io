@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive
 title: "Baskets"
 permalink: /baskets/
 author_profile: true

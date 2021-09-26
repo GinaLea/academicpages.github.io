@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive
 title: "Flowers"
 permalink: /flowers/
 author_profile: true
