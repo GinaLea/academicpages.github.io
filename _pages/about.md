@@ -12,4 +12,4 @@ Peony Pride Alaska, LLC is located in Alaska’s Matanuska Valley.  Peony Pride 
 
 Peony Pride Alaska, LLC also offers handmade, one of a kind, cloth baskets created from re-purposed bed sheets.  In 2017, a dear high school friend introduced be to rug making.  In an attempt to make a cat house/bed, I learned how to make baskets!  The original basket is in use as my gardening basket and accompanies me out the peonies whenever I work in the garden.  
 
-![](images/flower_2.jpg)
+![](images/flower_3.jpg)
