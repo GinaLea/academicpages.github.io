@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peony Pride"
+title                    : "Peony Pride Alaska"
 title_separator          : "-"
-name                     : &name "Peony Pride"
+name                     : &name "Peony Pride Alaska"
 description              : &description "Flower shop"
 url                      : https://ginalea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peony Pride"
-  avatar           : "https://github.com/GinaLea.png"
+  name             : "Peony Pride Alaska"
+  avatar           : "images/profile_pic.jpg"
   bio              : "Flower shop"
   location         : "Location"
   employer         :
