@@ -14,7 +14,7 @@ Peony Pride Alaska, LLC also offers handmade, one of a kind, cloth baskets and r
 
 **CURRENTLY AVAILABLE**
 
-I have bundles of 3 stems for \$10; 15 stems for \$45.  Bundles are pink with an occasional red or white.  If you are interested, email: peonyprideak@gmail.com
+I have bundles of 3 stems for \\$10; 15 stems for \\$45.  Bundles are pink with an occasional red or white.  If you are interested, email: peonyprideak@gmail.com
 
 Thanks for visiting!
 
