@@ -20,6 +20,9 @@ main:
   
   - title: "Baskets"
     url: /baskets/
+  
+  - title: "Shop"
+    url: /shop/
     
   # - title: "Guide"
   #   url: /markdown/
