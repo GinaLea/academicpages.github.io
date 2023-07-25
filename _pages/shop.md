@@ -14,10 +14,12 @@ redirect_from:
 
 I have bundles of 3 stems for \\$10; 9 stems for \\$27.  Bundles are pink with an occasional red or white.  If you are interested, email: peonyprideak@gmail.com
 
-![](/images/shop_page_1.jpg =250x)
+![](/images/shop_page_1.jpg)
+
 3 stems for \\$10
 
-![](/images/shop_page_2.jpg =250x)
+![](/images/shop_page_2.jpg)
+
 9 stems for \\$27
 
 

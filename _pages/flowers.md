@@ -12,7 +12,7 @@ redirect_from:
 
 Pictures of flowers from the farm!
 
-![](/images/flowers_page_1.jpg =250x)
-![](/images/flowers_page_2.jpg =250x)
+![](/images/flowers_page_1.jpg)
+![](/images/flowers_page_2.jpg)
 <!-- ![](/images/flower_3.jpg)
 ![](/images/flower_4.jpg) -->
