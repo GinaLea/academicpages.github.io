@@ -14,5 +14,7 @@ Pictures of flowers from the farm!
 
 ![](/images/flowers_page_1.jpg)
 ![](/images/flowers_page_2.jpg)
-<!-- ![](/images/flower_3.jpg)
-![](/images/flower_4.jpg) -->
+![](/images/flower_1.jpg)
+![](/images/flower_2.jpg)
+![](/images/flower_3.jpg)
+![](/images/flower_4.jpg)
